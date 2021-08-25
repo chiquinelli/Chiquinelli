@@ -26,15 +26,20 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-    ![Visual Code](https://img.shields.io/badge/-Visual%20Code-333333?style=flat&logo=visual-code&logoColor=007ACC)
+  ![Visual Code](https://img.shields.io/badge/-Visual%20Code-333333?style=flat&logo=visual-code&logoColor=007ACC)
 
  
 
 ----
 ## ⭐ Informações sobre minha conta GitHub
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=chiquinelli&theme=chartreuse-dark&show_icons=true)
-![YOUR github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chiquinelli&theme=chartreuse-dark&show_icons=true)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=chiquinelli&theme=chartreuse-dark&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiquinelli&theme=chartreuse-dark&show_icons=true" />
+</a>
+
 
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/chiquinelli) 
@@ -59,4 +64,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=chiquinelli&theme=chartreuse-dark&show_icons=true)
+![YOUR github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chiquinelli&theme=chartreuse-dark&show_icons=true)
 -->
