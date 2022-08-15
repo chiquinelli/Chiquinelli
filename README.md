@@ -5,7 +5,7 @@
 
 ### Olá 👋
 
-- 👯Estou me formando em Gestão de TI, em busca de oportunidades e colaboração em projetos relacionados ao Desenvolvimento Front-end e Back-end.
+- 👯Estou me formando em Gestão de TI, em busca de oportunidades e colaboração em projetos relacionados ao Desenvolvimento  Back-end usando o framework .NET  
 - 🔭 Atualmente estou trabalhando como desenvolvedor de back-end (além disso, estou melhorando minhas estruturas de dados e habilidades algorítmicas regularmente).
 - 🌱 Atualmente estou desenvolvendo habilidades de front-end como Javascript e CSS3 e de back-end  C#.
 - 🤝 Estou procurando colaborar em projetos fullstack para adquirir um aprendizado profundo.
